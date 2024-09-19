@@ -20,3 +20,5 @@ Métriques et interprétation
 Explication du Mutation Score et comment l’interpréter.
 Bonnes pratiques et conclusion
 Quand et comment intégrer le mutation testing dans vos processus de développement.
+
+[FnMutation.Testing.-.Salim.Fathya.pdf](https://github.com/user-attachments/files/17061369/FnMutation.Testing.-.Salim.Fathya.pdf)
